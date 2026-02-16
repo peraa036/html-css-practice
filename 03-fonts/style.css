@@ -1,0 +1,12 @@
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-VariableFont_wdth\,wght.ttf);
+}
+h1{
+    font-family: OpenSans, Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+}
